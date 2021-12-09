@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#FF000000</color>
+    <color name="color_secondary">#4AF3F8</color>
+    <color name="title_color">#FF000000</color>
+    <color name="bad_tip">#bb2124</color>
+    <color name="best_tip">#22bb33</color>
+</resources>
